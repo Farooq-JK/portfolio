@@ -1,7 +1,12 @@
 # Farooq JK
-![Farooq JK Logo](/assets/img.jpg)
-**Location:** Belfast, Northern Ireland  
-**Contact:** (https://www.linkedin.com/in/f-j-khorshid-665219253/)
+
+<div style="display: flex; align-items: center;">
+    <img src="assets/image.png" alt="Farooq JK Logo" style="border-radius: 50%; width: 150px; margin-right: 20px;">
+    <div>
+        **Location:** Belfast, Northern Ireland  
+        **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/f-j-khorshid-665219253/)
+    </div>
+</div>
 
 ---
 
@@ -68,4 +73,3 @@ commitment to applying technology for impactful solutions.
 - **Web Development:** Developed responsive websites using HTML, CSS, and Bootstrap.
 - **Data Analysis:** Created data visualizations to present insights from datasets in volunteer work.
 - **Cloud Development:** Currently expanding knowledge of cloud platforms and services.
-
