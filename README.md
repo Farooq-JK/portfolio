@@ -1,6 +1,6 @@
 # Farooq JK
 
-![Farooq JK Logo](assets/image.png)
+!(assets/image.png)
 
 **Location:** Belfast, Northern Ireland  
 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/f-j-khorshid-665219253/)
