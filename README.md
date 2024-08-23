@@ -3,8 +3,9 @@
 <div style="display: flex; align-items: center;">
     <img src="assets/image.png" alt="Farooq JK Logo" style="border-radius: 50%; width: 150px; margin-right: 20px;">
     <div>
-        **Location:** Belfast, Northern Ireland  
-        **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/f-j-khorshid-665219253/)
+        <strong>Location:</strong> Belfast, Northern Ireland  
+        <br>
+        <strong>Contact:</strong> [LinkedIn Profile](https://www.linkedin.com/in/f-j-khorshid-665219253/)
     </div>
 </div>
 
